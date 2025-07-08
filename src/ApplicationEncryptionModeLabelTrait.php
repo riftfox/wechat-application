@@ -7,9 +7,9 @@ trait ApplicationEncryptionModeLabelTrait
     public function encryptionModeLabels():array
     {
         return [
-            ApplicationInterface::ENCRYPTION_MODE_PLAIN_TEXT => '',
-            ApplicationInterface::ENCRYPTION_MODE_SAFE => '',
-            ApplicationInterface::ENCRYPTION_MODE_COMPATIBILITY => '',
+            ApplicationInterface::ENCRYPTION_MODE_PLAIN_TEXT => '明文模式',
+            ApplicationInterface::ENCRYPTION_MODE_COMPATIBILITY => '兼容模式',
+            ApplicationInterface::ENCRYPTION_MODE_SAFE => '安全模式（推荐）',
         ];
     }
 
