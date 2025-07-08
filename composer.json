@@ -1,0 +1,15 @@
+{
+  "name": "riftfox/wechat-application",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Riftfox",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "php": ">7"
+  }
+}
