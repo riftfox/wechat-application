@@ -2,7 +2,7 @@
   "name": "riftfox/wechat-application",
   "description": "description",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
       "name": "Riftfox",
