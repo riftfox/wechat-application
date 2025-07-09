@@ -14,7 +14,8 @@
   },
   "autoload": {
     "psr-4": {
-      "Riftfox\\Wechat\\Application\\": "src/"
+      "Riftfox\\Wechat\\Application\\": "src/",
+      "Riftfox\\Wechat\\Application\\tests": "tests/"
     }
   }
 }
